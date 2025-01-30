@@ -1,6 +1,6 @@
 {
   "name": "@lsby/simple-2fa",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "bin": {
     "lsby-simple-2fa": "dist/esm/index.js"
