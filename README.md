@@ -35,7 +35,7 @@
 ## 安装
 
 ```bash
-@lsby/simple-2fa
+npm i -g @lsby/simple-2fa
 ```
 
 ## 运行
